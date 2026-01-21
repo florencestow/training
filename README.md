@@ -22,7 +22,7 @@ To do at the training
 
 \[x] Cloning from repository
 
-\[x] Reverting a publish 
+\[x] Reverting a publish
 
 
 
@@ -74,8 +74,13 @@ To do at the training
 
 
 
-**Reverting a publish** 
+**Reverting a publish**
 
-* If you commit and publish a commit 
-* And the right-click and revert commit, it will go back to the previous version and you can decide to publish this 
-* But this will undo any changes you have made 
+* If you commit and publish a commit
+* And the right-click and revert commit, it will go back to the previous version and you can decide to publish this
+* But this will undo any changes you have made
+
+
+
+Broken sth rever
+
