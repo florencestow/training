@@ -115,9 +115,5 @@ To do at the training
 
 
 
-**Practice revert**
-
-
-
 
 
