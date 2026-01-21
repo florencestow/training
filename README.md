@@ -4,25 +4,25 @@ git hub training
 
 
 
-Jargon 
+Jargon
 
-Working Tree --> local file explores 
+Working Tree --> local file explores
 
 
 
 To do at the training
 
-\[] New file
+\[x] New file
 
-\[] What GitHub does
+\[x] What GitHub does
 
-\[] What makes a good commit
+\[x] What makes a good commit
 
-\[] Publishing to repository 
+\[x] Publishing to repository
 
-\[] Cloning from repository 
+\[x] Cloning from repository
 
-
+\[x] Reverting a publish 
 
 
 
@@ -61,13 +61,21 @@ To do at the training
 
 **Publishing to repository**
 
-* Publish to repository and this is like a back-up 
-* Saves to the repository and is good for collaboration 
+* Publish to repository and this is like a back-up
+* Saves to the repository and is good for collaboration
 
 
 
 **Cloning from repository**
 
-* Then can clone from repository 
-* e.g. if you delete or lose laptop 
-* Can clone the repository from git back to the local drive 
+* Then can clone from repository
+* e.g. if you delete or lose laptop
+* Can clone the repository from git back to the local drive
+
+
+
+**Reverting a publish** 
+
+* If you commit and publish a commit 
+* And the right-click and revert commit, it will go back to the previous version and you can decide to publish this 
+* But this will undo any changes you have made 
