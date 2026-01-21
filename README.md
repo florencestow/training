@@ -4,7 +4,19 @@ git hub training
 
 
 
-What git hub does: 
+To do at the training
+
+\[] New file
+
+\[] What GitHub does 
+
+\[] What makes a good commit 
+
+
+
+
+
+**What git hub does:** 
 
 * You save normal files (.doc, .csv, .txt) to the local drive (file explorer) 
 * Make edits to those on the normal interface 
@@ -18,6 +30,34 @@ What git hub does:
 &nbsp;	- All these little changes won't be committed (like the typing, deleting etc) 
 
 &nbsp;	- But the difference between the previous commit and the most recent commit will get saved  
+
+
+
+**What makes a good commit**
+
+* Atomic and orthogonal 
+
+&nbsp;	- does one whole thing
+
+&nbsp;	- one thing at a time - makes it easier to undo one thing at a time 
+
+* E.g. 
+
+&nbsp;	- One whole new feature 
+
+&nbsp;	- one bug fix 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
