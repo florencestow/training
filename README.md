@@ -24,7 +24,7 @@ To do at the training
 
 \[x] Reverting a publish
 
-\[x] Analogy - Russian doll 
+\[x] Analogy - Russian doll
 
 
 
@@ -86,34 +86,34 @@ To do at the training
 
 **How GitHub workflow works**
 
-* Work on the thing locally in your files 
-* Save it in your files 
+* Work on the thing locally in your files
+* Save it in your files
 
-&nbsp;	- GitHub tracks these changes 
+ 	- GitHub tracks these changes
 
-&nbsp;	- Can undo on the file itself
+ 	- Can undo on the file itself
 
-* Committing sends it to repository limbo 
+* Committing sends it to repository limbo
 
-&nbsp;	- Getting ready to send it to the online repository 
+ 	- Getting ready to send it to the online repository
 
-&nbsp;	- Can undo by "undo commit" so this won't get pushed 
+ 	- Can undo by "undo commit" so this won't get pushed
 
-* Pushing sends it to online repository 
+* Pushing sends it to online repository
 
-&nbsp;	- Uploaded to the repository and backed up 
+ 	- Uploaded to the repository and backed up
 
-&nbsp;	- Can undo by reverting 
+ 	- Can undo by reverting
 
-&nbsp;	- This will revert back to what it was before the push 
+ 	- This will revert back to what it was before the push
 
-&nbsp;	- Takes it back to repository limbo 
+ 	- Takes it back to repository limbo
 
-&nbsp;	- If you want this version, you can push this and it will go back to the version before 
+ 	- If you want this version, you can push this and it will go back to the version before
 
-&nbsp;	- If you don't want this, you can undo the commit and it will undo the revert
-
-
+ 	- If you don't want this, you can undo the commit and it will undo the revert
 
 
+
+**Undo revert**
 
