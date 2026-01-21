@@ -77,11 +77,5 @@ To do at the training
 **Reverting a publish** 
 
 * If you commit and publish a commit 
-* And the right-click and revert commit, it will go back to the previous version and you can decide to publish this
-* Like if you make changes and it breaks something
+* And the right-click and revert commit, it will go back to the previous version and you can decide to publish this 
 * But this will undo any changes you have made 
-
-
-
-**REVERT THIS oh no Ive fked it** 
-
