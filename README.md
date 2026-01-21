@@ -125,8 +125,14 @@ To do at the training
 
 * Branches allow you to work on a shared document on a separate branch (like a copy)
 * You can make changes it to it separately, and it won't do anything to the main files
-* Depending on the branch that you are on GitHub desktop will change what you see in the file explorer
-* Then you push the branch version to the repository
-* And do a pull request
-* This can be reviewed, checked and if ok it can be merged with the main version, and it will override the original but track the history of the versions before, if it needs going back to
-* Once its been merged online, you need to pull it on the githib desktop 
+
+&nbsp;	- Depending on the branch that you are on GitHub desktop will change what you see in 	the file explorer
+
+&nbsp;	- Then you push the branch version to the repository
+
+&nbsp;	- And do a pull request
+
+&nbsp;	- This can be reviewed, checked and if ok it can be merged with the main version, and 	it will override the original but track the history of the versions before, if it needs 	going back to
+
+* Once its been merged online, you need to pull it on the githib desktop
+* Then the other branch is outdated 
