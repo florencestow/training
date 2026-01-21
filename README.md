@@ -1,4 +1,4 @@
-Training
+# Training
 
 git hub training
 
@@ -26,15 +26,14 @@ To do at the training
 
 
 
-What git hub does:
+**What git hub does:**
 
-You save normal files (.doc, .csv, .txt) to the local drive (file explorer)
-
-Make edits to those on the normal interface
+* You save normal files (.doc, .csv, .txt) to the local drive (file explorer)
+* Make edits to those on the normal interface
 
  	- GitHub tracks these changes in the repository and will show you those changes
 
-When you want to commit and save these changes as like "official" changes/versions that you want to track
+* When you want to commit and save these changes as like "official" changes/versions that you want to track
 
  	- Commit these to the repository with a bit of a summary to the update
 
@@ -44,15 +43,15 @@ When you want to commit and save these changes as like "official" changes/versio
 
 
 
-What makes a good commit
+**What makes a good commit**
 
-Atomic and orthogonal
+* Atomic and orthogonal
 
  	- does one whole thing
 
  	- one thing at a time - makes it easier to undo one thing at a time
 
-E.g.
+* E.g.
 
  	- One whole new feature
 
@@ -60,33 +59,15 @@ E.g.
 
 
 
-Publishing to repository
+**Publishing to repository**
 
-Publish to repository and this is like a back-up 
-
-Saves to the repository and is good for collaboration 
-
-
-
-Cloning from repository
-
-Then can clone from repository 
-
-e.g. if you delete or lose laptop 
-
-Can clone the repository from git back to the local drive 
+* Publish to repository and this is like a back-up 
+* Saves to the repository and is good for collaboration 
 
 
 
-Undo a change 
+**Cloning from repository**
 
-Can undo an uncommitted change 
-
-e.g if you accidentally delete a whole file, you can get it back by undoing 
-
-BUT if you undo changes that *are not committed* you **lose these changes!!**
-
-
-
-
-
+* Then can clone from repository 
+* e.g. if you delete or lose laptop 
+* Can clone the repository from git back to the local drive 
