@@ -24,9 +24,13 @@ To do at the training
 
 \[x] Reverting a publish
 
-\[x] Analogy - Russian doll
+\[x] GitHub work flow
 
 \[x] Branches
+
+\[] Merge and Merge requests 
+
+\[] Testing in the background? 
 
 
 
@@ -141,4 +145,7 @@ To do at the training
 
 **Merging and Merge requests** 
 
-* 
+
+
+
+
